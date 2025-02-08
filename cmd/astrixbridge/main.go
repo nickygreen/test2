@@ -8,7 +8,7 @@ import (
 	"os"
 	"path"
 	"time"
-	"./Users/m.cukrowski/Downloads/ASTRIX/astrix-stratum-bridge-1.1.1(3)/src/astrixstratum"
+	"cmd/astrixbridge"
 	"gopkg.in/yaml.v2"
 )
 
