@@ -8,7 +8,7 @@ import (
 	"os"
 	"path"
 	"time"
-	"https://github.com/nickygreen/test2/cmd/astrixbridge"
+	"github.com/nickygreen/test2/cmd/astrixbridge"
 	"gopkg.in/yaml.v2"
 )
 
